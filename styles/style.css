@@ -24,7 +24,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
-    font-size: 18px;  
+    font-size: 18px;
 }
 
 .header-menu {
