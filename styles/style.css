@@ -22,6 +22,7 @@
 
 /*Стили шапки*/
 .header {
+
     padding: 92px 50px; 
     display: grid;
     grid-template-columns: repeat(3, 1fr);
