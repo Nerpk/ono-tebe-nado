@@ -1,4 +1,3 @@
-/*Общие стили*/
 .content-section {
     background-color: #fff;
 }
@@ -20,15 +19,12 @@
     list-style-type: none;
 }
 
-/*Стили шапки*/
 .header {
-
     padding: 92px 50px; 
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
-    font-size: 18px;
-    
+    font-size: 18px;  
 }
 
 .header-menu {
@@ -62,7 +58,6 @@
     height: 105px;
 }
 
-/*Стили входной секции*/
 .cover {
     position: relative;
     display: flex;
@@ -149,7 +144,6 @@
     margin-left: 78px;
 }
 
-/*Стили секции с карточками*/
 .lots {
     padding: 180px 50px;
     display: flex;
@@ -247,7 +241,6 @@
     font-weight: 400;
 }
 
-/*Стили секции об аукционе*/
 .about {
     padding: 0 50px 180px;
 }
@@ -297,7 +290,6 @@
     font-weight: 400;
 }
 
-/*Стили подала*/
 .footer {
     padding: 0 50px 90px;
     display: flex;
@@ -329,4 +321,3 @@
     /*в сафари и опере без указания максимальной высоты всё выводится корректно, 
     но в гугле без указания выводятся значки много большего размера*/
 }
-
