@@ -99,7 +99,7 @@
 
 .align-text-right {
   justify-self: end;
-  padding-bottom: 120px;
+  margin-bottom: 120px;
 }
 
 .letter-spaicing-extended {
@@ -121,9 +121,7 @@
 
 .cover-description-text {
   color: #fff;
-  font-family: Raleway;
   font-size: 22px;
-  font-style: normal;
   font-weight: 400;
   align-self: center;
   text-transform: uppercase;
@@ -136,9 +134,7 @@
   border: 1px solid #fff;
   background-color: transparent;
   font-size: 22px;
-  font-style: normal;
   font-weight: 400;
-  line-height: normal;
   text-transform: uppercase;
   padding: 12px 32px;
   margin-left: 78px;
